@@ -1,0 +1,7 @@
+.form__label {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    width: 100%;
+    max-width: 200px;
+}

@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 700px;
+  justify-content: center;
+  line-height: 1.5;
+  font-family: 'Merriweather', serif;
+  text-align: justify;
+  margin: 0 auto;
+  padding: 100px;
+  width: 100%;
+  max-width: 1000px;
+  background-image: url("https://i.postimg.cc/W3BLMdXD/background3.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: contain;
+  background-attachment: fixed;
+}
