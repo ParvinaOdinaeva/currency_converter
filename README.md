@@ -1,7 +1,7 @@
 # homepage_9B - modified currency converter from homepage_5_currency-converter-modified - using Create React App with interaction added
 ## Demo
 <br><a rel="noreferrer noopener" target="_blank" href="https://parvinaodinaeva.github.io/currency_converter/" title="currency_converter">Preview of work</a>
-<br>![converter](https://i.postimg.cc/Y2Z0hx4g/background.jpg)
+<br>![converter](https://i.postimg.cc/1zM2XQjZ/Przechwytywanie.jpg)
 ## *Description*
 <br>here I present a currency calculator created using Create React App modified homework from module 5
 <br>*Method of use as before*
